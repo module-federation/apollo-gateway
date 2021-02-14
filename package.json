@@ -1,5 +1,5 @@
 {
-  "name": "apollo-gateway",
+  "name": "@module-federation/apollo-gateway",
   "version": "1.0.0",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
