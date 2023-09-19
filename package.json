@@ -22,7 +22,7 @@
     "apollo-server": "2.21.0",
     "apollo-server-testing": "2.21.0",
     "cz-conventional-changelog": "3.3.0",
-    "graphql": "15.5.0",
+    "graphql": "16.8.1",
     "jest": "26.6.3",
     "prettier": "2.2.1",
     "rollup": "2.40.0"
